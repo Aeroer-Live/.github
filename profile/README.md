@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Aeroer.Live.png" alt="Aeroer Website">
+</div>
 
 <div align="center">
 
