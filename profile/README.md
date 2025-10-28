@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aeroer Logo](Aeroer.Live.png)
+![Aeroer Logo](profile/Aeroer.Live.png)
 
 </div>
 
