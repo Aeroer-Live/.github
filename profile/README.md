@@ -31,7 +31,7 @@
 ```bash
 # System Status Check
 $ systemctl status aeroer-org
-● aeroer-org.service - Aeroer Development Organization
+● Aeroer-Live.service - Cloud Architecture | Website Development | Web System Development | AI Research
    Active: active (running) since 2024-01-01
    Status: Operational
    Projects: 15+ repositories
@@ -135,13 +135,6 @@ jobs:
         run: npm run build
 ```
 
-## 🌐 External Resources
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| 🌐 **Website** | Main portfolio and project showcase | [aeroer.live](https://www.aeroer.live) |
-| 📝 **Blog** | Technical articles and development insights | [aeroer.blog](https://www.aeroer.blog) |
-| 🔓 **Open Source** | Community projects and productivity tools | [productivitytask.live](https://www.productivitytask.live) |
 
 ## 📊 Code Statistics
 
@@ -181,15 +174,7 @@ interface ContactInfo {
   openSource: "https://www.productivitytask.live";
   email: "contact@aeroer.live";
   status: "available";
-}
-
-const contact: ContactInfo = {
-  website: "https://www.aeroer.live",
-  blog: "https://www.aeroer.blog", 
-  openSource: "https://www.productivitytask.live",
-  email: "contact@aeroer.live",
-  status: "available"
-};
+}:
 ```
 
 ## 📄 License
@@ -197,12 +182,3 @@ const contact: ContactInfo = {
 This organization contains projects with various licenses. Please check individual repository licenses for specific terms.
 
 ---
-
-<div align="center">
-
-**Built with ❤️ by [Aeroer](https://www.aeroer.live)**
-
-![GitHub](https://img.shields.io/github/followers/aeroer?label=Follow&style=social)
-![Twitter](https://img.shields.io/twitter/follow/aeroer?style=social)
-
-</div>
