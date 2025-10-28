@@ -1,9 +1,10 @@
 <div align="center">
 
-# 🚀 Live Demo
-# 🚀 Live Preview
-[![Live Preview](https://api.microlink.io/?url=https://www.aeroer.live&embed=screenshot.url)](https://www.aeroer.live)
-</div>
+<p align="center">
+  <a href="https://www.aeroer.live" target="_blank">
+    <img src="https://api.microlink.io/?url=https://www.aeroer.live&embed=screenshot.url" width="800" alt="Aeroer Website Preview">
+  </a>
+</p>
 
 <div align="center">
 
