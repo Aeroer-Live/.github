@@ -64,6 +64,19 @@ const techStack = {
 };
 ```
 
+## 📁 Repository Categories
+
+### 🌐 Open Source Projects
+- **Status**: `stable` | **Visibility**: `public`
+- Community-driven development
+- Productivity tools and utilities
+- Educational resources and tutorials
+
+### 🔒 Private Projects
+- **Status**: `production` | **Visibility**: `private`
+- Commercial software development
+- Client-specific solutions
+- Proprietary algorithms and implementations
 
 
 ## 📈 Project Metrics
@@ -113,22 +126,6 @@ jobs:
 ```
 
 
-## 📊 Code Statistics
 
-```bash
-# Repository Analysis
-$ cloc --by-file .
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-TypeScript                   45             234          156             2341
-JavaScript                   23             123           89             1234
-Python                       12              67           45              567
-Go                            8              34           23              234
-Rust                          5              23           12              123
--------------------------------------------------------------------------------
-SUM:                         93             481          325             4499
--------------------------------------------------------------------------------
-```
 
 
