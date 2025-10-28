@@ -41,7 +41,6 @@ $ systemctl status aeroer-org
 
 ## 🛠️ Technology Stack
 
-### Frontend Technologies
 ```typescript
 const techStack = {
   frontend: {
@@ -64,28 +63,6 @@ const techStack = {
   }
 };
 ```
-
-## 📁 Repository Categories
-
-### 🔬 Experimental Projects
-- **Status**: `experimental` | **Visibility**: `public`
-- Cutting-edge technology experiments
-- Proof-of-concept implementations
-- Research and development initiatives
-
-### 🌐 Open Source Projects
-- **Status**: `stable` | **Visibility**: `public`
-- Community-driven development
-- Productivity tools and utilities
-- Educational resources and tutorials
-
-### 🔒 Private Projects
-- **Status**: `production` | **Visibility**: `private`
-- Commercial software development
-- Client-specific solutions
-- Proprietary algorithms and implementations
-
-## 🚀 Quick Start
 
 
 
