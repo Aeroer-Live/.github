@@ -1,6 +1,10 @@
 <div align="center">
 
-![Aeroer Logo](profile/Aeroer.Live.png)
+<p align="center">
+  <a href="https://aeroer.live" target="_blank">
+    <img src="../Aeroer.Live.png" alt="Aeroer Logo" width="200"/>
+  </a>
+</p>
 
 </div>
 
