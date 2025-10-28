@@ -131,31 +131,4 @@ SUM:                         93             481          325             4499
 -------------------------------------------------------------------------------
 ```
 
-## 🤝 Contributing
 
-```bash
-# Fork and contribute
-1. Fork the repository
-2. Create feature branch: git checkout -b feature/amazing-feature
-3. Commit changes: git commit -m 'Add amazing feature'
-4. Push to branch: git push origin feature/amazing-feature
-5. Open Pull Request
-```
-
-## 📞 Contact & Support
-
-```typescript
-interface ContactInfo {
-  website: "https://www.aeroer.live";
-  blog: "https://www.aeroer.blog";
-  openSource: "https://www.productivitytask.live";
-  email: "contact@aeroer.live";
-  status: "available";
-}:
-```
-
-## 📄 License
-
-This organization contains projects with various licenses. Please check individual repository licenses for specific terms.
-
----
