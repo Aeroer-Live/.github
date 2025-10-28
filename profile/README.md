@@ -97,33 +97,17 @@ graph TD
     D --> J[Client Solutions]
 ```
 
-## 🔧 Development Workflow
+## 📞 Contact & Support
 
-```yaml
-# .github/workflows/development.yml
-name: Development Pipeline
-on:
-  push:
-    branches: [main, develop]
-  pull_request:
-    branches: [main]
+```typescript
+interface ContactInfo {
+  website: "https://www.aeroer.live";
+  blog: "https://www.aeroer.blog";
+  openSource: "https://www.productivitytask.live";
+  email: "contact@aeroer.live";
+  status: "available";
+}
 
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-      - name: Install dependencies
-        run: npm ci
-      - name: Run tests
-        run: npm test
-      - name: Build project
-        run: npm run build
-```
 
 
 
