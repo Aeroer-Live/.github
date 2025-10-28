@@ -1,10 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://www.aeroer.live" target="_blank">
-    <img src="https://api.microlink.io/?url=https://www.aeroer.live&embed=screenshot.url" width="800" alt="Aeroer Website Preview">
-  </a>
-</p>
 
 <div align="center">
 
@@ -20,6 +15,8 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-www.productivitytask.live-4ECDC4?style=for-the-badge&logo=github)](https://www.productivitytask.live)
 
 </div>
+
+<img src="Aeroer.Live.png" alt="Aeroer Website">
 
 ---
 
