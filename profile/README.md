@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aeroer.live" target="_blank">
-    <img src="../Aeroer.Live.png" alt="Aeroer Logo" width="200"/>
+    <img src="../Aeroer.Live.png" alt="Aeroer Logo" />
   </a>
 </p>
 
@@ -87,24 +87,7 @@ const techStack = {
 
 ## 🚀 Quick Start
 
-```bash
-# Clone organization repositories
-git clone https://github.com/aeroer/[repository-name]
 
-# Install dependencies
-npm install
-# or
-yarn install
-# or
-pnpm install
-
-# Start development server
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
 ## 📈 Project Metrics
 
