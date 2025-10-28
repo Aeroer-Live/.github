@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🚀 Live Demo
-👉 [View Website Here](https://www.aeroer.live)
+# 🚀 Live Preview
+[![Live Preview](https://api.microlink.io/?url=https://www.aeroer.live&embed=screenshot.url)](https://www.aeroer.live)
 </div>
 
 <div align="center">
